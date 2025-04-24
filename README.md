@@ -25,7 +25,7 @@ A comprehensive collection of Teamfight Tactics game resources, featuring high-q
 
 <div align="center">
 
-## ⚔️ Powering MetaForge - Tools for Tacticians
+## 🚀 Powering MetaForge - Tools for Tacticians
 
 </div>
 
