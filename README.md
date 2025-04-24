@@ -26,5 +26,5 @@ MetaForge - Tools for Tacticians:
 - Art exploring in both the gallery and entities detailed pages.
 - Guides, news, leaderboard, and a profile with history exploration and patterns detection.
 
-- https://metaforge.lol  
-- @metaforgelol
+https://metaforge.lol  
+@metaforgelol
