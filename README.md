@@ -1,7 +1,7 @@
 # TFT-Assets
 Unified collection of assets and data for Teamfight Tactics game entities.
 
-Here's icons, stats for every units traits and items.  
+Here's icons and stats for every units, traits and items.  
 Also news, guides, all in two unified folders: assets for visuals, and data for text.
  
 Here's a quick overview of the directory structure:
