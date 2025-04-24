@@ -7,9 +7,9 @@ Also news, guides, all in two unified folders: assets for visuals, and data for 
 Here's a quick overview of the directory structure:
 
 Assets:  
-- Units: Collection of units png square icons. (60)  
+- Units: Collection of units png square icons using apiName format. (60)  
 - Traits: Collection of traits png square icons including bronze, silver, gold, prismatic versions. (26)  
-- Items: Collection of items png square icons using apiName format. (422)
+- Items: Collection of items png square icons. (422)
   
 Data:  
 - Entities informations including game stats, apiName and more in unified units, traits, items jsons.  
