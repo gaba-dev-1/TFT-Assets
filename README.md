@@ -12,12 +12,13 @@ Assets:
   
 Data:  
 - Entities informations including game stats, apiName and more in unified units, traits, items jsons.  
-- News and guides also in jsons.  
+- News and guides also in jsons.
+
+Please not that we aggregated game data and visuals but don't own their copyright and not endorsed by Riot, therefore you must refer to their TOS.  
 
 -----  
 
-Those collections are used in our affiliated Teamfight Tactics helper app.
-Please not that we aggregated all of them but don't own their copyright and not endorsed by Riot therefore you must refer to their TOS.
+Those collections are used in our affiliated Teamfight Tactics helper app.  
 
 MetaForge - Tools for Tacticians:
 - Meta overview with tier lists and highlights.
@@ -27,4 +28,4 @@ MetaForge - Tools for Tacticians:
 - Guides, news, leaderboard, and a profile with history exploration and patterns detection.
 
 https://metaforge.lol  
-@metaforgelol
+@metaforgelol  
