@@ -14,7 +14,7 @@ Data:
 - Entities informations including game stats, apiName and more in unified units, traits, items jsons.  
 - News and guides also in jsons.
 
-Please not that we aggregated game data and visuals but don't own their copyright and not endorsed by Riot, therefore you must refer to their TOS.  
+! Please not that we aggregated game data and visuals but don't own their copyright, therefore you must refer to their TOS.
 
 -----  
 
