@@ -17,6 +17,7 @@ Data:
 -----  
 
 Those collections are used in our affiliated Teamfight Tactics helper app.
+Please not that we aggregated all of them but don't own their copyright and not endorsed by Riot therefore you must refer to their TOS.
 
 MetaForge - Tools for Tacticians:
 - Meta overview with tier lists and highlights.
