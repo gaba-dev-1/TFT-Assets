@@ -1,31 +1,27 @@
 # TFT-Assets
-Unified collection of assets and data for Teamfight Tactics game entities.
+A comprehensive collection of Teamfight Tactics game resources, featuring high-quality icons and detailed data for all units, traits, and items.
 
-You'll find icons and stats for every units, traits and items, also news and guides.
- 
-The following is a quick overview of the two separated folders, assets for visuals and data for text:
+## Repository Structure
 
-Assets:  
-- Units | Collection of square png icons using apiName format (60)  
-- Traits | Collection of square png icons including bronze, silver, gold, prismatic versions (26)  
-- Items | Collection of square png icons (422)
-  
-Data:  
-- Entities informations including game stats, apiName and more in unified units, traits, items jsons.  
-- News and guides also in jsons.
+### Assets
+- **Units**: 60 square PNG icons using apiName format
+- **Traits**: 26 square PNG icons (bronze, silver, gold, prismatic variants)
+- **Items**: 422 square PNG icons
 
-! Please not that we aggregated game data and visuals but don't own their copyright, therefore you must refer to their TOS.
+### Data
+- **Game Entities**: Complete JSON data including game stats, apiName, and detailed properties
+- **Content**: Curated news and guides in structured JSON format
 
------  
+> **Note**: This repository contains aggregated game data and visuals subject to Riot Games' Terms of Service.
 
-Those collections are used in our affiliated Teamfight Tactics helper app.  
+## Powering MetaForge - Tools for Tacticians
 
-MetaForge - Tools for Tacticians:
-- Meta overview with tier lists and highlights.
-- Performance metrics for entities in unified table.
-- Dynamic team building with suggested and saved compositions.
-- Art exploring in both the gallery and entities detailed pages.
-- Guides, news, leaderboard, and a profile with history exploration and patterns detection.
+Our affiliated TFT companion app offers:
 
-https://metaforge.lol  
-@metaforgelol  
+- **Meta Analysis**: Comprehensive tier lists and current meta insights
+- **Entity Analytics**: Detailed performance metrics in unified, sortable tables
+- **Team Builder**: Interactive composition creator with recommendations and save functionality
+- **Visual Gallery**: Explore game art through both gallery view and detailed entity pages
+- **Competitive Tools**: Guides, news, leaderboard tracking, and profile analysis with pattern detection
+
+Visit us at [metaforge.lol](https://metaforge.lol) or follow [@metaforgelol](https://twitter.com/metaforgelol)
