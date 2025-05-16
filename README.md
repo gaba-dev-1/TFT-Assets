@@ -1,43 +1,72 @@
 <div align="center">
 
 # 📦 TFT-Assets
-A comprehensive collection of Teamfight Tactics game resources, featuring high-quality icons and detailed data for all units, traits, and items.
+
+**Standardized Teamfight Tactics Resource Collection**
+
+![Units](https://img.shields.io/badge/Units-60-informational)
+![Traits](https://img.shields.io/badge/Traits-26-informational)
+![Items](https://img.shields.io/badge/Items-422-informational)
 
 </div>
 
-## 📁 Repository Structure
+## 📋 Overview
+
+TFT-Assets is a comprehensive repository of standardized Teamfight Tactics resources designed for integration into applications, websites, and analytical tools. This collection provides optimized assets and structured data with consistent naming conventions and formats.
+
+## 🗂️ Repository Contents
+
 ### 🖼️ Assets
-- **Units**: 60 square PNG icons using apiName format
-- **Traits**: 26 square PNG icons (bronze, silver, gold, prismatic variants)
-- **Items**: 422 square PNG icons
+
+The repository includes optimized PNG files for game elements:
+
+- **Units**: 60 square PNG icons using the apiName format
+- **Traits**: 26 square PNG icons including variant versions:
+  - Bronze, Silver, Gold, Prismatic quality levels
+- **Items**: 422 square PNG icons covering:
+  - Basic items
+  - Combined items
+  - Radiant versions
+  - Special items and emblems
 
 ### 📊 Data
-- **Game Entities**: Complete JSON data including game stats, apiName, and detailed properties
-- **Content**: Curated news and guides in structured JSON format
+
+Structured JSON files provide comprehensive game information:
+
+- **Game Entities**: Complete dataset including:
+  - Unit statistics (health, mana, armor, magic resist, etc.)
+  - apiName identifiers
+  - Cost and rarity information
+  - Ability descriptions and mechanics
+  - Origin and class affiliations
+- **Content**: Supplementary information:
+  - Patch data
+  - Set mechanics
+  - Game systems
+
+## 📱 Use Cases
+
+TFT-Assets supports a variety of applications:
+
+- **Game Companion Apps**: Provide detailed information on game elements
+- **Team Building Tools**: Visual representations of champions and synergies
+- **Analytics Platforms**: Data for statistical analysis of game components
+- **Educational Content**: Resources for guides and tutorials
+- **Community Websites**: Standardized assets for consistent presentation
+
+## 🔗 Integration
+
+TFT-Assets is designed for seamless integration with Teamfight Tactics applications. The repository serves as the resource foundation for [MetaForge TFT](https://github.com/gaba-dev-1/metaforge-tft), providing standardized assets for consistent implementation across its analytical platform.
+
+## 📝 File Format Specifications
+
+- **Image Assets**: Optimized PNGs in 128x128px resolution
+- **Data Files**: Minified JSON with consistent property naming
+- **Naming Convention**: Official apiName format for all assets
+- **Organization**: Logical folder structure by game element type
 
 <div align="center">
 
-> **Note**: This repository contains aggregated game data and visuals subject to Riot Games' Terms of Service.
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🚀 Powering MetaForge - Tools for Tacticians
-
-</div>
-
-Our affiliated TFT companion app offers:
-- **Meta Analysis**: Comprehensive tier lists and current meta insights
-- **Entity Analytics**: Detailed performance metrics in unified, sortable tables
-- **Team Builder**: Interactive composition creator with recommendations and save functionality
-- **Visual Gallery**: Explore game art through both gallery view and detailed entity pages
-- **Competitive Tools**: Guides, news, leaderboard tracking, and profile analysis with pattern detection
-
-<div align="center">
-
-🌐 Visit us at [metaforge.lol](https://metaforge.lol) or follow [@metaforgelol](https://twitter.com/metaforgelol)
+**Note**: This repository contains game data and visuals subject to Riot Games' Terms of Service. ⚠️
 
 </div>
