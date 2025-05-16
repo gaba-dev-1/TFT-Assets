@@ -50,7 +50,7 @@ TFT-Assets is a free-to-use collection of publicly available game resources, gat
 
 ## 🚀 Powering MetaForge
 
-These assets serve as the foundation for [MetaForge TFT](https://github.com/gaba-dev-1/metaforge-tft), our affiliated TFT companion app that offers:
+These assets serve as the foundation for [MetaForge TFT](https://github.com/gaba-dev-1/metaforge), our affiliated TFT companion app that offers:
 
 - **Meta Analysis**: Comprehensive tier lists and current meta insights
 - **Entity Analytics**: Detailed performance metrics in unified, sortable tables
