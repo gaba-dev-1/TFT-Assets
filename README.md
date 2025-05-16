@@ -44,29 +44,29 @@ Structured JSON files provide comprehensive game information:
   - Set mechanics
   - Game systems
 
-## 📱 Use Cases
-
-TFT-Assets supports a variety of applications:
-
-- **Game Companion Apps**: Provide detailed information on game elements
-- **Team Building Tools**: Visual representations of champions and synergies
-- **Analytics Platforms**: Data for statistical analysis of game components
-- **Educational Content**: Resources for guides and tutorials
-- **Community Websites**: Standardized assets for consistent presentation
-
 ## 🔗 Integration
 
-TFT-Assets is designed for seamless integration with Teamfight Tactics applications. The repository serves as the resource foundation for [MetaForge TFT](https://github.com/gaba-dev-1/metaforge-tft), providing standardized assets for consistent implementation across its analytical platform.
+TFT-Assets is a free-to-use collection of publicly available game resources, gathered and standardized for easy integration into third-party applications. All assets maintain consistent naming conventions and formats to simplify implementation across various platforms and tools.
 
-## 📝 File Format Specifications
+## 🚀 Powering MetaForge
 
-- **Image Assets**: Optimized PNGs in 128x128px resolution
-- **Data Files**: Minified JSON with consistent property naming
-- **Naming Convention**: Official apiName format for all assets
-- **Organization**: Logical folder structure by game element type
+These assets serve as the foundation for [MetaForge TFT](https://github.com/gaba-dev-1/metaforge-tft), our affiliated TFT companion app that offers:
+
+- **Meta Analysis**: Comprehensive tier lists and current meta insights
+- **Entity Analytics**: Detailed performance metrics in unified, sortable tables
+- **Team Builder**: Interactive composition creator with recommendations and save functionality
+- **Visual Gallery**: Explore game art through both gallery view and detailed entity pages
+- **Competitive Tools**: Guides, news, leaderboard tracking, and profile analysis
+
+## 📝 File Specifications
+
+- **Image Assets**: PNGs in 128x128px resolution
+- **Data Files**: JSON with consistent property naming
+- **Naming Convention**: Official apiName format
+- **Organization**: Folder structure by game element type
 
 <div align="center">
 
-**Note**: This repository contains game data and visuals subject to Riot Games' Terms of Service. ⚠️
+Note: This repository contains game data and visuals subject to Riot Games' Terms of Service.
 
 </div>
